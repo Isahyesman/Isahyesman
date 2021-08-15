@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Isahyesman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Isahyesman
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding 
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me 
+        @isaismail131@gmail.com
 
 <!---
 Isahyesman/Isahyesman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
